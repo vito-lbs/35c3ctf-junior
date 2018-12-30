@@ -7,7 +7,9 @@ This is the writeup of all the challenges team "racecar" and "alpha centauri" di
 
 # team racecar / alpha centauri
 
-vito & ch4inl3ss
+vito & ch4inl3ss, a cool 43rd place finish
+
+![image of scores](/2018-12-29-20-01-58.png)
 
 # we solved
 
